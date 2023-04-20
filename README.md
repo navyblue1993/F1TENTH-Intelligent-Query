@@ -24,13 +24,13 @@ openai.api_key = "<your openai api key>"
 
 You can then test the script by running:
 
-```
+```bash
 python intelligent_query.py
 ```
 
 To use the answer_question function in your own Python code, simply import it from the intelligent_query module and pass in your question and simulation data as arguments:
 
-```
+```python
 from intelligent_query import answer_question
 
 question = "What is the average speed of the vehicle?"
