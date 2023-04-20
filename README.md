@@ -6,7 +6,7 @@ This repository provides a Python script that allows you to use OpenAI to analyz
 
 To get started, clone this repository and install the required packages:
 
-```
+```bash
 git clone https://github.com/navyblue1993/F1TENTH-Intelligent-Query.git
 cd F1TENTH-Intelligent-Query
 pip install -r requirements.txt
