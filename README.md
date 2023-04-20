@@ -12,7 +12,7 @@ cd F1TENTH-Intelligent-Query
 pip install -r requirements.txt
 ```
 
-You'll also need an OpenAI API key to use this script. If you don't already have one, you can obtain one [here](https://platform.openai.com/account/api-keys).
+> You'll also need an OpenAI API key to use this script. If you don't already have one, you can obtain one [here](https://platform.openai.com/account/api-keys).
 
 ## Usage
 
