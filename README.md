@@ -39,5 +39,5 @@ answer = answer_question(question, simulation_data)
 print(answer)
 ```
 
-Contributing
+## Contributing
 If you find any issues or have suggestions for improvements, feel free to submit an issue or pull request.
