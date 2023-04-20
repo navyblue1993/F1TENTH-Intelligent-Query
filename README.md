@@ -10,4 +10,5 @@
 ```
 python intelligent_query.py
 ```
-### from intelligent_query import
+### from intelligent_query import answer_question
+### answer_question({question}, {simulation_data})
